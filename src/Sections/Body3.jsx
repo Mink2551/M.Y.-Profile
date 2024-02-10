@@ -73,15 +73,15 @@ const Body3 = () => {
                 </div>
 
                 <div className="mr-5">
-               <p className="  max-w-7xl mx-20 text-gray-600 font-medium"> {data.PassagesBody7} </p>
+               <p className="  max-w-7xl md:mx-20 text-gray-600 font-medium"> {data.PassagesBody7} </p>
               </div>
 
               <div className="mr-5">
-               <p className="  max-w-7xl mx-20 text-gray-600 font-medium my-10"> {data.PassagesBody8} </p>
+               <p className="  max-w-7xl md:mx-20 text-gray-600 font-medium my-10"> {data.PassagesBody8} </p>
               </div>
 
               <div className="mr-5">
-               <p className="  max-w-7xl mx-20 text-gray-600 font-medium my-10 pb-20"> {data.PassagesBody9} </p>
+               <p className="  max-w-7xl md:mx-20 text-gray-600 font-medium my-10 pb-20"> {data.PassagesBody9} </p>
               </div>
            
            </div>
