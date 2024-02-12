@@ -1,5 +1,4 @@
 import { data } from "../Content/About" 
-import Catminkya from "../../public/Catminkya.jpg"
 
 const Body3 = () => {
     return(

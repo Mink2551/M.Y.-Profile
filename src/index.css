@@ -40,4 +40,40 @@
     font-family: "Anakotmai", system-ui, sans-serif
  }
 
+ @keyframes append-animate {
+  from {
+    transform: translatex(-100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translatex(0%);
+    opacity: 1;
+  }
+}
+
+.new-arrow {
+  animation: append-animate 0.5s ease-out forward;
+}
+
+@keyframes rgbOutline {
+  0% {
+      outline-color: red;
+  }
+  33% {
+      outline-color: green;
+  }
+  66% {
+      outline-color: blue;
+  }
+  100% {
+      outline-color: red;
+  }
+}
+
+.animated-outline {
+  border: 2px solid transparent;
+  animation: rgbOutline 3s infinite;
+}
+
 

@@ -13,10 +13,11 @@ const Footer = () => {
   </nav> 
   <nav>
     <h6 className="footer-title">Talent</h6> 
-    <a className="link link-hover"></a>
-    <a className="link link-hover"></a>
-    <a className="link link-hover"></a>
-    <a className="link link-hover"></a>
+    <a href="/Talent" className="link link-hover">Computer</a>
+    <a href="/Talent" className="link link-hover">Programing</a>
+    <a href="/Talent" className="link link-hover">Editer</a>
+    <a href="/Talent" className="link link-hover">Worker</a>
+    <a href="/Talent" className="link link-hover">Programer</a>
   </nav> 
   <nav>
     <h6 className="footer-title">Expoerience</h6> 
