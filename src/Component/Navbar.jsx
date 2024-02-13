@@ -48,7 +48,7 @@ const Navbar = () => {
             <a href="/talent">Talent</a>
           </li>
           <li className=" text-sm font-medium my-3 transition-all hover:scale-125 hover:underline text-gray-400 hover:text-gray-600">
-            <a href="#">Experience</a>
+            <a href="/experience">Experience</a>
           </li>
           <li className=" text-sm font-medium my-3 transition-all hover:scale-125 hover:underline text-gray-400 hover:text-gray-600">
             <a href="#">Portfolio</a>
@@ -68,10 +68,10 @@ const Navbar = () => {
               <a href="/talent">Talent</a>
             </li>
             <li>
-              <a href="/">Experience</a>
+              <a href="/experience">Experience</a>
             </li>
             <li>
-              <a href="/">Portfolio</a>
+              <a href="#">Portfolio</a>
             </li>
           </ul>
         </details>

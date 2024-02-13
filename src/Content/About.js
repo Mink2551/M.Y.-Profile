@@ -79,10 +79,14 @@ export const data = {
 
     MainTitleBody15: "Programer",
     MainTitleBody16: "Skill",
-
+    
     PassagesBody35: "I have a solid grasp of the fundamentals of website development using languages such as HTML, CSS, and JavaScript. Currently, I'm in a period of active learning, continuously striving to improve my skills. My current focus involves practicing and honing my language skills, particularly through projects built using VS Code, React, and Tailwind CSS. For example, I'm working on projects that involve creating responsive and dynamic user interfaces. This hands-on approach allows me to apply and reinforce my knowledge while exploring new techniques and best practices.",
-    PassagesBody36: "",
-    PassagesBody37: "",
-
+    PassagesBody36: "I have had the experience of SC club for one year. with the technical department. and the next semester I will be on the executive committee. ",
+    PassagesBody37: "ou can follow my work on SC through my Facebook fan page over the next 2 years.",
+    PassagesBody38: "I haven't done much work on my website yet. I only started writing code 20 days ago. The website is for the Student President.",
+    PassagesBody39: "",
+    PassagesBody40: "",
+    
+    MainTitleBody17: "Experience",
 
 }

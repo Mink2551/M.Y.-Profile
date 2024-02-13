@@ -7,7 +7,7 @@ const Body2 = () => {
             <div className="mt-16 m-5 grid md:grid-cols-[40%_60%]">
            
              <div className="md:m-7 m-20 my-5">
-                  <img src={Catminkya}  className=" rounded-3xl shadow-2xl" alt="Catminkya" />
+                  <img src="https://upload.wikimedia.org/wikipedia/th/f/f9/Satit_P.M._Building_1.jpg"  className=" rounded-3xl shadow-2xl" alt="Catminkya" />
                </div>
              
               <div>
@@ -26,7 +26,7 @@ const Body2 = () => {
                <p className="mt-5 ml-10 text-gray-600 font-medium my-auto"> {data.PassagesBody5} </p>
 
                <div className="md:m-7 m-20 my-5">
-                  <img src={Catminkya}  className=" rounded-3xl shadow-2xl" alt="Catminkya" />
+                  <img src="https://pt.mahidol.ac.th/knowledge/wp-content/uploads/2021/12/covid-virus-3d-modeling.jpg"  className=" rounded-3xl shadow-2xl" alt="Catminkya" />
                </div>
 
               </div>
