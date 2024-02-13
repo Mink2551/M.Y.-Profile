@@ -18,7 +18,7 @@ const Body3 = () => {
                             <tr><td>First name : Pacharapol</td></tr>
                             <tr><td>Surname : Pimpa</td></tr>
                             <tr><td>Nickname : Mink</td></tr>
-                            <tr><td>Birth date : 3/24/2024</td></tr>
+                            <tr><td>Birth date : 3/24/2008</td></tr>
                             <tr><td>Age : 15</td></tr>
                             <tr><td>Height : 178</td></tr>
                             <tr><td>Weight : 47</td></tr>
