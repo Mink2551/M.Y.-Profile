@@ -7,7 +7,7 @@ const Body2 = () => {
             <div className="mt-16 m-5 grid md:grid-cols-[40%_60%]">
            
              <div className="md:m-7 m-20 my-5">
-                  <img src="https://upload.wikimedia.org/wikipedia/th/f/f9/Satit_P.M._Building_1.jpg"  className=" rounded-3xl shadow-2xl" alt="Catminkya" />
+                  <img  src="https://upload.wikimedia.org/wikipedia/th/f/f9/Satit_P.M._Building_1.jpg"  className=" rounded-3xl shadow-2xl" alt="Catminkya" />
                </div>
              
               <div>

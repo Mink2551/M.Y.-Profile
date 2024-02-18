@@ -51,7 +51,7 @@ const Navbar = () => {
             <a href="/experience">Experience</a>
           </li>
           <li className=" text-sm font-medium my-3 transition-all hover:scale-125 hover:underline text-gray-400 hover:text-gray-600">
-            <a href="#">Portfolio</a>
+            <a href="/portfolio">Portfolio</a>
           </li>
         </ul>
       </div>
@@ -71,7 +71,7 @@ const Navbar = () => {
               <a href="/experience">Experience</a>
             </li>
             <li>
-              <a href="#">Portfolio</a>
+              <a href="/portfolio">Portfolio</a>
             </li>
           </ul>
         </details>

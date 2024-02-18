@@ -22,6 +22,9 @@ export default {
         primaryEarthtone1: "#668D3C",
         primaryEarthtone2: "#C3E3FA",
         primaryBG1: "",
+        primaryGra1: "#0B0421",
+        primaryGra2: "#150B34",
+        primaryGra3: "#01015C",
         
       },
 

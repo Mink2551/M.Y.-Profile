@@ -88,5 +88,6 @@ export const data = {
     PassagesBody40: "",
     
     MainTitleBody17: "Experience",
-
+    
+    MainTitleBody18: "Portfolio",
 }
